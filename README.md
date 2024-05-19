@@ -26,7 +26,7 @@ $ dotnet publish -r win-x64 -c Release /p:PublishSingleFile=true /p:PublishTrimm
 
 ## Configuration
 
-When you are changing your path, make sure it is the full path and follows the escaped path format (C:\\Users\\Your Name\\...)!
+When you are changing your path, make sure it is the full path and follows the escaped path format!
 
 You can also modify the command window showing or not by editing the csproj file and changing WinExe to Exe!
 
